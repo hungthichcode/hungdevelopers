@@ -68,20 +68,20 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/huycoder2k5" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quochuydev-facebook" />
+  <a href="https://facebook.com/huycoder2k5](https://www.facebook.com/NMHRUBY" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenhungdev-facebook" />
   </a>
   <a href="https://www.youtube.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyenhungdev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/dangquochuy" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quochuydev-linkedin" />
+  <a href="" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyenhungdev-linkedin" />
   </a>
-  <a href="https://instagram.com/danieldev_.205" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quochuydevdev-instagram" />
+  <a href="" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyenhungdev-instagram" />
   </a>
-  <a href="mailto:huypc929@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quochuydev-email" />
+  <a href="mailto:nmhrubykt@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenhungdev-email" />
   </a>
 </div>
 
@@ -89,9 +89,9 @@
 <h2 align="center">📖 Software Engineer & UI/UX Designner 📖</h2>
 <br>
 <p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/huycoder2k5" target="_blank">https://www.facebook.com/huycoder2k5</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/NMHRUBY" target="_blank">https://www.facebook.com/huycoder2k5](https://www.facebook.com/NMHRUBY</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:huydev2k.official@gmail.com" target="_top">huydev2k.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:nmhrubykt@gmail.com" target="_top">nmhrubykt@gmail.com</a></strong>
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="https://i.ibb.co/YtF5BWk/NG-QU-C-HUY-1.jpg" width="1200" alt="huydev2k-official" />
@@ -100,5 +100,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="huyquocdang-quotes.svg" width="846" height="150" alt="dangquochuy-official" />
+  <img src="nguyenmanhhung-quotes.svg" width="846" height="150" alt="nguyenmanhhung-official" />
 </a>
