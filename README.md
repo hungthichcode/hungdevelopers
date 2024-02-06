@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/huycoder2k5](https://www.facebook.com/NMHRUBY" target="blank">
+  <a href="https://www.facebook.com/NMHRUBY" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenhungdev-facebook" />
   </a>
   <a href="https://www.youtube.com/" target="blank">
